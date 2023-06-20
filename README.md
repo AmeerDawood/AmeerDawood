@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently <i><b>studying software</b></i> engineering at<a href="https://www.umt.edu.pk/" target="_blank">UMT</a><br>🌱 <i><b>I’m currently learning C++ language</b></i><br>💬 Ask me
+🔭 I’m currently <i><b>studying software</b></i> engineering at<a href="https://www.umt.edu.pk/" target="_blank"> UMT</a><br>🌱 <i><b>I’m currently learning C++ language</b></i><br>💬 Ask me
 
 ## 🌐 Socials:
 
