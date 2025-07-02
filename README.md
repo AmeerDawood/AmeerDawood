@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently <i>studying <b>Software Engineering</b></i> at<a href="https://www.umt.edu.pk/" target="_blank"> UMT</a><br>🌱 <i><b>I’m currently working on React.JS, JavaScript, Python, HTML, CSS, BOTSTRAP, C++ language</b></i><br>💬 Ask me
+🔭 I’m currently <i>studying <b>Software Engineering</b></i> at<a href="https://www.umt.edu.pk/" target="_blank"> UMT</a><br>🌱 <i><b>I’m currently working on React.JS, HTML, CSS, BOTSTRAP, JavaScript, Python, Django, C++ languages</b></i><br>💬 Ask me
 
 ## 🌐 Socials:
 
