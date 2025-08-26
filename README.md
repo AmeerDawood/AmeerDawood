@@ -8,17 +8,17 @@
 - 🎓 *BS Software Engineering (2022–2026)* — University of Management and Technology (UMT)
 - 💼 Frontend Intern at *JS Technologies* (Remote)
 - 💻 Tech Stack: React.js, HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, Python, Django, SQL, C++
-- 🌱 Currently exploring frontend frameworks, UI/UX improvements, and backend integration
-- 📍 Based in Jhang, Pakistan
-- 📫 Reach me: *shaistatabbasum523@gmail.com* | 📞 *+92 329 079 7242*  
-- 🔗 [*LinkedIn Profile*](https://www.linkedin.com/in/shaista-tabbasum/)
+- 🌱 Currently exploring Front End Frameworks, UI/UX Improvements, and Back End Integration
+- 📍 Based in Lahore, Pakistan
+- 📫 Reach me: *ameerdaud890@gmail.com* | 📞 *+92 311 495 0972*  
+- 🔗 [*LinkedIn Profile*](https://www.linkedin.com/in/ameer-dawood-57b8472a1)
 
 ---
 
 ### ​ Experience & Projects
 
 #### ​​​ *JS Technologies* — Frontend Intern  
-*Mar 2024 – Present*  
+*Aug 2024 – Jan 2025*  
 - *POS System* (React.js, Django, MySQL)  
   • Crafted a responsive and clean frontend interface for SMEs utilizing reusable React components and client-side validation.
 
