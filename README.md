@@ -42,7 +42,7 @@
 ### ​ Tech Stack
 
 *Languages:* JavaScript · Python · HTML5 · CSS3 · SQL · C++  
-*Frameworks/Libraries:* React.js · Bootstrap · Django · DRF  
+*Frameworks/Libraries:* React.js · Bootstrap · Tailwind · Django · DRF 
 *Databases:* MySQL · SQLite  
 *Tools:* AJAX · API Integration · Web Scraping · Git · VS Code
 
