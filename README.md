@@ -3,7 +3,7 @@
 
 ---
 
-### ​ About Me
+### ​🧾 About Me
 
 - 🎓 *BS Software Engineering (2022–2026)* — University of Management and Technology (UMT)
 - 💼 Frontend Intern at *JS Technologies* (Remote)
@@ -15,9 +15,9 @@
 
 ---
 
-### ​ Experience & Projects
+### ​💼 Experience & Projects
 
-#### ​​​ *JS Technologies* — Frontend Intern  
+#### ​​​👨🏻‍💻 *JS Technologies* — Frontend Intern  
 *Aug 2024 – Jan 2025*  
 - *POS System* (React.js, Django, MySQL)  
   • Crafted a responsive and clean frontend interface for SMEs utilizing reusable React components and client-side validation.
