@@ -48,9 +48,8 @@
 
 ---
 
-## ​ GitHub Trophies  
+## GitHub Trophies  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=AmeerDawood&theme=dracula&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## ​ GitHub Stats  
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=AmeerDawood&show_icons=true&theme=algolia)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerDawood&layout=compact&theme=algolia)
@@ -62,8 +61,8 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![DRF](https://img.shields.io/badge/-DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
+![DRF](https://img.shields.io/badge/-DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ---
 
 ## ​ GitHub Activity Graph  
