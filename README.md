@@ -49,7 +49,8 @@
 ---
 
 ## GitHub Trophies  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AmeerDawood&theme=dracula&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=AmeerDawood)
+
 ## ​ GitHub Stats  
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=AmeerDawood&show_icons=true&theme=algolia)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerDawood&layout=compact&theme=algolia)
