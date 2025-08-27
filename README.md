@@ -39,7 +39,7 @@
 
 ---
 
-### ​ Tech Stack
+### ​🧰 Tech Stack
 
 *Languages:* JavaScript · Python · HTML5 · CSS3 · SQL · C++  
 *Frameworks/Libraries:* React.js · Bootstrap · Tailwind · Django · DRF 
@@ -48,16 +48,16 @@
 
 ---
 
-## GitHub Trophies  
+## 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=AmeerDawood)
 
-## ​ GitHub Stats  
+## ​📊 GitHub Stats  
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=AmeerDawood&show_icons=true&theme=algolia)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerDawood&layout=compact&theme=algolia)
 
 ---
 
-### ​ Frameworks & Libraries
+### ​🚀 Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
@@ -66,11 +66,11 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ---
 
-## ​ GitHub Activity Graph  
+## ​📈 GitHub Activity Graph  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmeerDawood&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### ​​ Quote
+### ​​✍️ Quote
 
 >“First, solve the problem. Then, write the code.”
