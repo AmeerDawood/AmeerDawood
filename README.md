@@ -14,8 +14,6 @@
 Frontend Developer | React.js | UI/UX & Responsive Design | Working on Full Stack Projects
 </h3>
 
-<img src="https://raw.githubusercontent.com/AmeerDawood/AmeerDawood/main/assets/cover.png" width="1000" height="500"/>
-
 <p>
 <img src="https://komarev.com/ghpvc/?username=AmeerDawood&color=00D4FF">
 <img src="https://img.shields.io/github/followers/AmeerDawood?label=Followers&style=social">
