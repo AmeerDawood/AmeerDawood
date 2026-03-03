@@ -27,9 +27,9 @@ Frontend Developer | React.js | UI/UX & Responsive Design | Working on Full Stac
 
 > *“First, solve the problem. Then, write the code.”*
 
-🔭 **Currently Working On:** Modern frontend web applications  
-🎯 **Expertise:** React.js, responsive UI, clean component architecture  
-👯 **Looking to Collaborate:** Frontend-heavy projects & full-stack teams  
+🔭 **Currently Working On:** Modern Full-Stack Web Applications  
+🎯 **Expertise:** React.js, Responsive UI, Clean Component Architecture  
+👯 **Looking to Collaborate:** Large-Scale Frontend Projects & Full-Stack Teams  
 💬 **Ask Me About:** React, UI/UX, Bootstrap, Tailwind, frontend best practices  
 🎓 **Education:** BS Software Engineering (2022–2026) — **UMT Lahore**  
 📍 **Location:** Lahore, Pakistan  
