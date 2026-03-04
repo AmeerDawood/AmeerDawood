@@ -11,7 +11,7 @@
 </p>
 
 <h3>
-Frontend Developer | React.js | UI/UX & Responsive Design | Working on Full Stack Projects
+Frontend Developer | UI/UX & Responsive Design | Working on Full Stack Projects
 </h3>
 
 <p>
