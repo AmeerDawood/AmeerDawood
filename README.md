@@ -93,10 +93,10 @@ Frontend Developer | UI/UX & Responsive Design | Working on Full Stack Projects
 
 ## 🎯 Current Focus
 
-- 🎨 Clean & modern UI/UX design  
-- ⚛️ Scalable React component architecture  
-- 🔗 Backend integration with APIs  
-- 🤝 Real-world & collaborative projects  
+- 🎨 Clean & Modern UI/UX Design  
+- ⚛️ Scalable React Component Architecture  
+- 🔗 BackendIintegration with APIs  
+- 🤝 Real-World & Collaborative Projects  
 
 ---
 
@@ -129,7 +129,7 @@ Frontend Developer | UI/UX & Responsive Design | Working on Full Stack Projects
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!     
 
 *A passionate frontend developer focused on clean UI,  
 performance, and great user experience.*
