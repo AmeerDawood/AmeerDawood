@@ -31,7 +31,7 @@ Frontend Developer | UI/UX & Responsive Design | Working on Full Stack Projects
 🎯 **Expertise:** React.js, Responsive UI, Clean Component Architecture  
 👯 **Looking to Collaborate:** Large-Scale Frontend Projects & Full-Stack Teams  
 💬 **Ask Me About:** React, UI/UX, Bootstrap, Tailwind, frontend best practices  
-🎓 **Education:** BS Software Engineering (2022–2026) — **UMT Lahore**  
+🎓 **Education:** BS Software Engineering — **UMT, Lahore**  
 📍 **Location:** Lahore, Pakistan  
 
 💡 **Fun Fact:** I enjoy turning complex ideas into clean, user-friendly interfaces.  
